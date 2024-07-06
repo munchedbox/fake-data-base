@@ -269,24 +269,6 @@
       "group": "CDN/Financials",
       "phone": "+974-7547-570-238",
       "verified": false
-    },
-    {
-      "_id": "0ac9b083-f93a-4d80-8b49-78b281d348c6",
-      "name": "Hank Brock",
-      "account": "companydomain/RoyalBourque",
-      "email": "lelia.caskey0757@gateway.com",
-      "group": "CDN/Outsorced",
-      "phone": "+973-0703-265-088",
-      "verified": true
-    },
-    {
-      "_id": "e8d9fb30-d47b-4efa-bd03-4769c03f8f26",
-      "name": "Pok Reardon",
-      "account": "companydomain/TennilleMcreynolds",
-      "email": "taina.witherspoon@yahoo.com",
-      "group": "CDN/Financials",
-      "phone": "+56-7403-851-954",
-      "verified": true
     }
   ]
 }
