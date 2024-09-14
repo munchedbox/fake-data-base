@@ -1,274 +1,238 @@
 {
-  "users": [
+  "advertisements": [
     {
-      "_id": "4a3725f5-dab1-4191-9868-3b09402f3818",
-      "name": "Carisa Valentin",
-      "account": "companydomain/ZellaGreenfield",
-      "email": "lyla-mclain-goss@yahoo.com",
-      "group": "CDN/Designers",
-      "phone": "+599-0911-517-462",
-      "verified": false
+      "id": "4a89b8e2-5c5b-4d70-a34a-df8e9d5f688f",
+      "name": "Стул старинный",
+      "description": "Элегантный старинный стул, выполненный из качественной древесины. Старинный дизайн придаст вашему интерьеру особый шарм. Этот уникальный предмет мебели прекрасно подойдет как для дома, так и для офиса, создавая атмосферу старины и уюта. Состояние отличное, легкие следы времени добавляют характер изделию",
+      "price": 2000,
+      "createdAt": "2022-08-12T20:16:55.351Z",
+      "views": 20,
+      "likes": 2,
+      "imageUrl": "https://70.img.avito.st/image/1/1.F7XQgba4u1zmKHlZ8ul5oLwjuVpuIDlUpiW5XmAos1Zm.gOqiyTDJHDeVe_-MbAHDBoCpWTygip0ox5VMUtztw-I"
     },
     {
-      "_id": "d8c781d8-c657-4fc0-ac7d-002a8bb71146",
-      "name": "Margarita Hidalgo",
-      "account": "companydomain/MoseCoy",
-      "email": "lencarmack@fibre.com",
-      "group": "CDN/Outsorced",
-      "phone": "+593-2718-338-131",
-      "verified": true
+      "id": "c19a7b7b-223a-4f92-b76f-2b508a1a6fc0",
+      "name": "Ведро снега",
+      "description": "Необычное и редкое предложение — ведро чистого свежего снега! Поспешите купить по специальной цене. Отличный способ удивить друзей или использовать для зимних развлечений. Это ведро может стать уникальным элементом декора или просто освежающим подарком на зимние праздники.",
+      "price": 3000,
+      "createdAt": "2023-08-12T20:16:55.351Z",
+      "views": 77832,
+      "likes": 45666,
+      "imageUrl": "https://static.vecteezy.com/system/resources/previews/001/215/937/non_2x/bucket-with-snow-photo.jpg"
     },
     {
-      "_id": "064f9ae4-ad20-47cf-9634-4a6a4db94867",
-      "name": "Kesha Tran",
-      "account": "companydomain/MarciaMoten",
-      "email": "dariusmcgrew3836@connected.equipment.aero",
-      "group": "Unmanaged",
-      "phone": "+354-0634-567-264",
-      "verified": true
+      "id": "f3d9baf6-36d2-4f83-9171-9b4b2c3b60f2",
+      "name": "Плащ невидимка",
+      "price": 10000000,
+      "description": "Настоящее чудо техники — плащ-невидимка. Идеально подходит для тех, кто хочет оставаться незаметным. Плащ выполнен из высококачественного материала, обеспечивающего полный эффект невидимости. Станьте невидимым для окружающих! Отличный подарок для любителей приключений и необычных вещей.",
+      "createdAt": "2024-08-12T20:16:55.351Z",
+      "views": 900,
+      "likes": 19,
+      "imageUrl": "https://60.img.avito.st/image/1/1.207q97a4d6fcXrWi0LSpRIVVdaFUVvWvnFN1pVpef61c.o2g_vGYDbyQG6IdFSXMlbkgWngCBzac_aIiUakOQ5hk"
     },
     {
-      "_id": "1e9d2ed7-fd27-444d-8503-99eaf54b625e",
-      "name": "Eusebio Oreilly",
-      "account": "companydomain/BuckJarman",
-      "email": "angelinestringer@generous.com",
-      "group": "Unmanaged",
-      "phone": "+39-8282-412-210",
-      "verified": true
+      "id": "f6e908d8-3e4f-4e91-8e5a-8f7d925e4fa1",
+      "name": "Ковер",
+      "description": "Ковер, напоминающий те, что украшали дома наших бабушек. Этот винтажный ковер с классическим узором идеально впишется в любой интерьер, добавляя нотку ретро-шика. Мягкий на ощупь, приятен для босых ног и надежно защитит ваши полы от износа.",
+      "price": 5000,
+      "createdAt": "2024-07-12T20:16:55.351Z",
+      "views": 2000000,
+      "likes": 2,
+      "imageUrl": "https://40.img.avito.st/image/1/1.NeY1rba4mQ8DBFsKU7lf3hMMmwmLDBsHQwmbDYUEkQWD.rlYBa-BaGR2qgP3mXYt9P2PAMV66ljhhQEhc7_RGeLE"
     },
     {
-      "_id": "08d05cd6-8bf4-401c-8978-0b40a3bb8278",
-      "name": "Renea Mcfadden",
-      "account": "companydomain/MarianoHerbert",
-      "email": "melida@administration.com",
-      "group": "CDN/Managers",
-      "phone": "+351-7206-659-989",
-      "verified": true
+      "id": "b6cb4e16-4c42-4b3a-bef2-c82a8a4cb418",
+      "name": "Носки",
+      "price": 6000,
+      "description": "Эти носки — настоящее произведение искусства в мире моды! Стильные, удобные и очень теплые, они станут идеальным дополнением к вашему гардеробу. Высокое качество ткани обеспечивает долговечность и комфорт при носке.",
+      "createdAt": "2024-06-12T20:16:55.351Z",
+      "views": 0,
+      "likes": 0,
+      "imageUrl": "https://30.img.avito.st/image/1/1.S7688ra551eKWyVSpod5snxR4V0I0e-VDVHlUwBb7VU.gwxNw4PsLnAhT3V9CjZT5uzCI-SHIav7LPO7FEY6VS4"
     },
     {
-      "_id": "b245eb4f-2a91-4568-a75e-8aa6fc77447d",
-      "name": "Al Main",
-      "account": "companydomain/HarveySimonson",
-      "email": "johnathon.crayton970@kde.inabe.mie.jp",
-      "group": "CDN/Managers",
-      "phone": "+967-0704-433-374",
-      "verified": true
+      "id": "b8996c4a-5f1a-4a3c-9e59-d7a6a2fca4e3",
+      "name": "Картонная коробка",
+      "description": "Прочная и надежная картонная коробка для хранения и перевозки ваших вещей. Отлично подойдет для переезда или хранения вещей в гараже. Легкая, но при этом выдерживает тяжелый груз.",
+      "price": "10000",
+      "createdAt": "2024-04-12T20:16:55.351Z",
+      "views": 1,
+      "likes": 0,
+      "imageUrl": "https://cdn0.youla.io/files/images/720_720_out/5e/a9/5ea91c8def458a233b4f0755-1.jpg"
     },
     {
-      "_id": "27d711a1-7f11-4ffc-9380-d50c0edd2aa5",
-      "name": "Gwen Gallagher",
-      "account": "companydomain/MarenLaird",
-      "email": "consuelo-burton05@gmail.com",
-      "group": "CDN/Administration",
-      "phone": "+675-3376-255-200",
-      "verified": false
+      "id": "a83f93a1-8aeb-4c47-8e71-c8e1a5a55f9e",
+      "name": "Угловой диван",
+      "description": "Стих для привлечения внимания: дама сдавала в багаж диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. выдали даме на станции четыре зеленых квитанции о том, что получен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. вещи везут на перрон. кидают в открытый вагон. готово. уложен багаж: диван, чемодан, саквояж, картина, корзина, картонка и маленькая собачонка. но только раздался звонок, удрал из вагона щенок. хватились на станции дно: потеряно место одно. в испуге считают багаж: диван, чемодан, саквояж, картина, корзина, картонка… — товарищи! где собачонка? вдруг видят: стоит у колес огромный взъерошенный пес. поймали его — и в багаж, туда, где лежал саквояж, картина, корзина, картонка, где прежде была собачонка. приехали в город житомир. носильщик пятнадцатый номер везет на тележке багаж: диван, чемодан, саквояж, картину, корзину, картонку, а сзади ведут собачонку. собака-то как зарычит, а барыня как закричит: — разбойники! воры! уроды! собака — не той породы! швырнула она чемодан, ногой отпихнула диван, картину, корзину, картонку… — отдайте мою собачонку! — позвольте, мамаша! на станции, согласно багажной квитанции, от вас получили багаж: диван, чемодан, саквояж, картину, корзину, картонку и маленькую собачонку. однако за время пути собака могла подрасти!",
+      "price": 999,
+      "createdAt": "2024-08-12T14:16:55.351Z",
+      "views": 20000,
+      "likes": 1,
+      "imageUrl": "https://91.img.avito.st/image/1/1.EjA_rra6vtkJB3zcF45zHeINuN2LjbYbjg260YsFvA.Zry_1jhBm_gb98brnbp1zzMxLMu2lBxkmN5AVz8oetY"
     },
     {
-      "_id": "0925cdd9-ba84-4a8f-adb8-4a2dfa7ae9a5",
-      "name": "Dan Halstead",
-      "account": "companydomain/AngelineScott",
-      "email": "tawna382@scholarships.com",
-      "group": "CDN/Administration",
-      "phone": "+593-8265-936-238",
-      "verified": true
+      "id": "e08d4e6b-e8c1-4b0c-84c2-43d7bb3a2e2a",
+      "name": "Новый айфон",
+      "price": 100000,
+      "description": "Совершенно новый айфон последней модели. Этот смартфон оснащен всеми новейшими функциями и обладает невероятной производительностью. Суперчеткий экран, мощный процессор и уникальные возможности камеры делают этот телефон лучшим выбором для современных пользователей.",
+      "createdAt": "2024-08-12T12:16:55.351Z",
+      "views": 200000,
+      "likes": 302,
+      "imageUrl": "https://avatars.mds.yandex.net/i?id=ef9f6fa5b7e7f11d46d44dfe47d9b7ee_l-8438571-images-thumbs&n=13"
     },
     {
-      "_id": "6bb0c6bb-58c1-489c-941c-4e7e91b6b3fb",
-      "name": "Phyliss Chaffin",
-      "account": "companydomain/MelvaSwearingen",
-      "email": "breanne-acevedo30287@footage.com",
-      "group": "CDN/Managers",
-      "phone": "+965-7338-129-789",
-      "verified": false
+      "id": "a1b2c3d4-5e6f-7g8h-9i10-jklmnopqrst",
+      "name": "Антикварный стол",
+      "description": "Антикварный деревянный стол с резными ножками. Прекрасный предмет для интерьера, созданный в начале 20 века. Отличное состояние, идеален для коллекционеров или ценителей классики.",
+      "price": 15000,
+      "createdAt": "2024-01-15T10:20:30.351Z",
+      "views": 120,
+      "likes": 18,
+      "imageUrl": "https://60.img.avito.st/image/1/1.wNQ-aLa4bD0Iwa44MkfAwhDJbjuAye41SMxuP47BZDeI.cTExEHfFBxpRKS6h3jWOe94FXwzTgrQxRurbkV0-3zQ"
     },
     {
-      "_id": "f0bb96c1-2cf8-4c72-baf1-ba740fb974a6",
-      "name": "Leslie Levi",
-      "account": "companydomain/JanetteMclaughlin",
-      "email": "leora-barrera@hotmail.com",
-      "group": "CDN/Managers",
-      "phone": "+595-8506-924-160",
-      "verified": false
+      "id": "b2c3d4e5-6f7g-8h9i-10jk-lmnopqrstuv",
+      "name": "Ретро-радио",
+      "description": "Радиоприемник 60-х годов, полностью рабочий. Идеально впишется в интерьер с ретро-дизайном или станет хорошим подарком для коллекционера.",
+      "price": 8000,
+      "createdAt": "2024-03-12T14:45:55.351Z",
+      "views": 340,
+      "likes": 75,
+      "imageUrl": "https://60.img.avito.st/image/1/1.NxquXba5m_OY9Fn2zDkUSUv-nfkafpMxH_6Z9xL0kfE.00tMLtx_un01dlMnvz3XmMu83mu7Bulqyz5S9OB1BGA"
     },
     {
-      "_id": "ffd9460b-a0b5-484f-ac17-33892b486612",
-      "name": "Sherrell Burney",
-      "account": "companydomain/KipShorter",
-      "email": "penelope77@hotmail.com",
-      "group": "CDN/Managers",
-      "phone": "+57-1341-946-264",
-      "verified": true
+      "id": "c3d4e5f6-7g8h-9i10-jklmnopqrst",
+      "name": "Механические часы",
+      "description": "Классические механические часы с кожаным ремешком. Прекрасный аксессуар для ценителей традиционных технологий и стиля.",
+      "price": 20000,
+      "createdAt": "2023-12-22T08:30:25.351Z",
+      "views": 450,
+      "likes": 32,
+      "imageUrl": "https://40.img.avito.st/image/1/1.EX3gp7a4vZTWDn-RztcWE88Gv5JeBj-clgO_llAOtZ5W.-jp3h4FN6I9xW0gWlnRJGcOyjJhFXsTKtrmhwcLY-no"
     },
     {
-      "_id": "c908e498-cd39-446e-93ab-4fb23d856478",
-      "name": "Tania Lew",
-      "account": "companydomain/HerminaValencia",
-      "email": "vilma_flowers390@hotmail.com",
-      "group": "CDN/Designers",
-      "phone": "+32-3876-248-454",
-      "verified": true
+      "id": "d4e5f6g7-8h9i-10jk-lmnopqrstuv",
+      "name": "Рояль",
+      "description": "Роскошный рояль, идеально подойдет как для профессиональных музыкантов, так и для ценителей прекрасного. Прекрасное состояние и уникальное звучание.",
+      "price": 500000,
+      "createdAt": "2024-05-30T18:45:55.351Z",
+      "views": 220,
+      "likes": 19,
+      "imageUrl": "https://10.img.avito.st/image/1/1.7Tvqgba4QdLcKIPXvL6oJ4EjQ9RUIMPanCVD0FooSdhc.jadoxq4wqn58sKOK1a6xcQjTgkXtpP7gfm3lG2838Z8"
     },
     {
-      "_id": "2b08d039-ebf5-41be-a110-8369ed337be3",
-      "name": "Merna Chisholm",
-      "account": "companydomain/ShondaHaines",
-      "email": "caroll_karr@currently.com",
-      "group": "CDN/Administration",
-      "phone": "+42-0777-877-164",
-      "verified": true
+      "id": "e5f6g7h8-9i10-jklmnopqrst",
+      "name": "Винтажная лампа",
+      "description": "Уникальная винтажная лампа, выполненная из меди и стекла. Идеально подойдет для освещения в спальне или гостиной, добавляя особое тепло и уют.",
+      "price": 3000,
+      "createdAt": "2024-02-14T09:25:55.351Z",
+      "views": 500,
+      "likes": 48,
+      "imageUrl": "https://30.img.avito.st/image/1/1.15FDPba5e3h1lLl9YVbm4o6efXL3HnO68p55fP-UcXo.jsgRRuruAm3lk67D-jhAt16TSHtDZeHaxB_DNZ_MfMw"
     },
     {
-      "_id": "73173ef1-4992-4dac-a073-f4077d7d1dab",
-      "name": "Felecia Vitale",
-      "account": "companydomain/ArleenBerryman",
-      "email": "valentina5496@hotmail.com",
-      "group": "CDN/Administration",
-      "phone": "+54-2311-272-656",
-      "verified": false
+      "id": "f6g7h8i9-10jk-lmnopqrstuv",
+      "name": "Кофемашина",
+      "description": "Современная кофемашина с множеством режимов и функций. Идеальный выбор для тех, кто любит качественный кофе по утрам.",
+      "price": 25000,
+      "createdAt": "2024-04-10T11:20:55.351Z",
+      "views": 380,
+      "likes": 60,
+      "imageUrl": "https://00.img.avito.st/image/1/1.QiWkwLa47sySaSzJrOUUE5Ji7MoaYWzE0mTszhRp5sYS.r9-YFrOhCJMOTyVs6RCQxCcuTuCkmbDOJsnbjo71izk"
     },
     {
-      "_id": "46627b1a-c707-4ccb-a7a4-cafe1f4cff8c",
-      "name": "Farah Breedlove",
-      "account": "companydomain/OrvalFortner",
-      "email": "brooks.rubio63@issue.com",
-      "group": "CDN/Financials",
-      "phone": "+241-8921-448-350",
-      "verified": true
+      "id": "g7h8i9j10-klmnopqrst",
+      "name": "Горный велосипед",
+      "description": "Прочный и надежный велосипед для езды по пересеченной местности. Легкая рама, амортизация и мощные тормоза.",
+      "price": 60000,
+      "createdAt": "2024-06-18T12:50:55.351Z",
+      "views": 890,
+      "likes": 150,
+      "imageUrl": "https://00.img.avito.st/image/1/1.BGqkO7a4qIOSkmqGoHdGSoqaqoUamiqL0p-qgRSSoIkS.JF-YikfAplEKxajxBTkVE1xMqT3uuwd5dJTYFmlxDEg"
     },
     {
-      "_id": "9747c29e-b49e-427a-862b-8c6e8fe8dd2d",
-      "name": "Nick Nall",
-      "account": "companydomain/NecoleFreed",
-      "email": "toi-sowell455@yahoo.com",
-      "group": "CDN/Outsorced",
-      "phone": "+41-2240-602-943",
-      "verified": false
+      "id": "i9j10klmnopqrstu",
+      "name": "Игровая консоль",
+      "description": "Новая игровая консоль последнего поколения. Поддерживает все современные игры с высоким качеством графики и производительности.",
+      "price": 70000,
+      "createdAt": "2024-08-05T14:35:55.351Z",
+      "views": 2000,
+      "likes": 300,
+      "imageUrl": "https://90.img.avito.st/image/1/1._mEoIra4Uogei5CNWA3NXVKAUI6Wg9CAXoZQipiLWoKe.EeVk7nQMnguKYRgbyb0zGpAwZYAcBVtqmjNjJwp_LCk"
     },
     {
-      "_id": "9225154d-981e-4945-bd96-d35f0eb1e9a0",
-      "name": "Jackelyn Quick",
-      "account": "companydomain/ClintonSiler",
-      "email": "dagny.christopher@cancel.com",
-      "group": "CDN/Financials",
-      "phone": "+596-5377-485-538",
-      "verified": true
+      "id": "j10klmnopqrstu",
+      "name": "Микроволновая печь",
+      "description": "Современная микроволновая печь с различными режимами готовки и разморозки. Компактный дизайн и простота использования.",
+      "price": 12000,
+      "createdAt": "2024-08-12T15:30:55.351Z",
+      "views": 670,
+      "likes": 58,
+      "imageUrl": "https://30.img.avito.st/image/1/1.8Ixfnra4XGVpN55gM52w0iY8XmPhP95tKTpeZ-83VG_p.IyubEb9bIR5FedKoOyaGIv2wiD-ogGTVDzYws4uBexE"
+    }
+  ],
+  "orders": [
+    {
+      "id": "d2f92b07-5b08-46e0-a8a4-2d8b2a8b423b",
+      "status": 0,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "",
+      "total": 314000,
+      "deliveryWay": "mail",
+      "items": [
+        {
+          "id": "e08d4e6b-e8c1-4b0c-84c2-43d7bb3a2e2a",
+          "name": "Новый айфон",
+          "price": 100000,
+          "createdAt": "2024-08-12T12:16:55.351Z",
+          "views": 200000,
+          "likes": 302,
+          "imageUrl": "",
+          "count": 3
+        },
+        {
+          "id": "b8996c4a-5f1a-4a3c-9e59-d7a6a2fca4e3",
+          "name": "Картонная коробка",
+          "description": "Почная.",
+          "price": 7000,
+          "createdAt": "2024-04-12T20:16:55.351Z",
+          "views": 1,
+          "likes": 0,
+          "imageUrl": "",
+          "count": 2
+        }
+      ]
     },
     {
-      "_id": "403e3230-644b-4ed0-89ab-04052247a92f",
-      "name": "Demetrius Muir",
-      "account": "companydomain/AyeshaConnelly",
-      "email": "branden6@scroll.com",
-      "group": "CDN/Financials",
-      "phone": "+27-4426-438-782",
-      "verified": true
-    },
-    {
-      "_id": "bb57ffb1-7b97-4666-a7fe-f11798e43aae",
-      "name": "Geneva Nowak",
-      "account": "companydomain/JuanitaSwann",
-      "email": "juleesullivan@trance.com",
-      "group": "CDN/Designers",
-      "phone": "+30-2859-652-358",
-      "verified": false
-    },
-    {
-      "_id": "cdbdfc6d-d29e-4f02-946d-66ff33be5e6a",
-      "name": "Naida Larsen-Orton",
-      "account": "companydomain/CassiGodfrey",
-      "email": "flor9109@hotmail.com",
-      "group": "CDN/Outsorced",
-      "phone": "+60-5603-061-485",
-      "verified": true
-    },
-    {
-      "_id": "e5cbe6de-9dd3-42a9-a6a9-a06d6a5a4e4f",
-      "name": "Xenia Bordelon",
-      "account": "companydomain/LaticiaNorris",
-      "email": "donnette_creech1158@myrtle.com",
-      "group": "CDN/Managers",
-      "phone": "+968-7097-041-511",
-      "verified": true
-    },
-    {
-      "_id": "e08d4c1e-bd18-4fa7-885f-7636086f98d9",
-      "name": "Ellen Ginn",
-      "account": "companydomain/MarshaMowery-Moll",
-      "email": "isabell0@yahoo.com",
-      "group": "CDN/Managers",
-      "phone": "+673-1849-799-402",
-      "verified": true
-    },
-    {
-      "_id": "68a6bed5-8a34-4d69-b9b5-173052c61e2a",
-      "name": "Robert Blais-Sisco",
-      "account": "companydomain/SantinaRountree",
-      "email": "jennyswan@yahoo.com",
-      "group": "Unmanaged",
-      "phone": "+505-1515-604-998",
-      "verified": true
-    },
-    {
-      "_id": "ffe15548-04c5-49a8-81ab-04474e93d44d",
-      "name": "Brandi Kasper",
-      "account": "companydomain/StellaHook",
-      "email": "khalilah_bull78@gmail.com",
-      "group": "CDN/Designers",
-      "phone": "+221-7331-050-313",
-      "verified": true
-    },
-    {
-      "_id": "e1ca22d9-0791-43f0-8a4c-15f7b61b99a1",
-      "name": "Efrain Brubaker",
-      "account": "companydomain/MariamHearn",
-      "email": "annetterosenthal@gmail.com",
-      "group": "CDN/Designers",
-      "phone": "+43-4135-590-814",
-      "verified": true
-    },
-    {
-      "_id": "7b731ed3-4877-475b-92c5-0aba0b359803",
-      "name": "Adelia Kiefer",
-      "account": "companydomain/LonnaReitz",
-      "email": "henriette340@manga.com",
-      "group": "Unmanaged",
-      "phone": "+39-6443-086-657",
-      "verified": true
-    },
-    {
-      "_id": "194b6ac1-97c0-4257-be2b-9ca8a564b6f5",
-      "name": "Terrell Ashcraft-Taber",
-      "account": "companydomain/CrissyGraf",
-      "email": "ernesto56@partnerships.com",
-      "group": "CDN/Outsorced",
-      "phone": "+255-1355-679-883",
-      "verified": true
-    },
-    {
-      "_id": "08d638c4-9398-43df-ab01-1cac2f3ae654",
-      "name": "Cherelle Gallegos",
-      "account": "companydomain/TerinaStoddard",
-      "email": "emma87@yahoo.com",
-      "group": "CDN/Financials",
-      "phone": "+53-6513-703-073",
-      "verified": false
-    },
-    {
-      "_id": "7743a3ad-2b3f-411b-b566-58c9d6852a43",
-      "name": "Armandina Cohn",
-      "account": "companydomain/AudryThibodeau",
-      "email": "sunnigarza9983@hotmail.com",
-      "group": "CDN/Financials",
-      "phone": "+63-1212-433-852",
-      "verified": true
-    },
-    {
-      "_id": "4c64f533-cbd4-4d6a-9547-43962b74f2e9",
-      "name": "Deloris Seidel",
-      "account": "companydomain/VerlineGaddis",
-      "email": "liberty.donald9878@recorded.com",
-      "group": "CDN/Financials",
-      "phone": "+974-7547-570-238",
-      "verified": false
+      "id": "4c2e6db7-830a-4e53-bcbb-8a1f2a89182a",
+      "status": 4,
+      "createdAt": "2024-08-12T20:20:55.351Z",
+      "finishedAt": "2024-08-12T20:25:55.351Z",
+      "total": 33000,
+      "deliveryWay": "sdek",
+      "items": [
+        {
+          "id": "c19a7b7b-223a-4f92-b76f-2b508a1a6fc0",
+          "name": "Ведро снега",
+          "description": "Последняя возможность купить по выгодной цене!",
+          "price": 3000,
+          "createdAt": "2023-08-12T20:16:55.351Z",
+          "views": 77832,
+          "likes": 45666,
+          "imageUrl": "",
+          "count": 10
+        },
+        {
+          "id": "b6cb4e16-4c42-4b3a-bef2-c82a8a4cb418",
+          "name": "Носки",
+          "price": 6000,
+          "createdAt": "2024-06-12T20:16:55.351Z",
+          "views": 0,
+          "likes": 0,
+          "imageUrl": "",
+          "count": 5
+        }
+      ]
     }
   ]
 }
